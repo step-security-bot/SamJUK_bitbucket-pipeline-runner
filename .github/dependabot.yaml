@@ -16,3 +16,8 @@ updates:
       - "SamJUK"
     assignees:
       - "SamJUK"
+
+  - package-ecosystem: docker
+    directory: /
+    schedule:
+      interval: daily
